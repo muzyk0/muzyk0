@@ -3,7 +3,7 @@
 
 
 ## 💼 [Portfolio](https://muzyk0.github.io/portfolio/)
-## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Muzyka_Vladislav.pdf)
+## 📋 [CV](https://github.com/muzyk0/muzyk0/blob/main/Muzyka_Vladislav.pdf)
 
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -19,6 +19,6 @@
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
 
-### ✉️ [Mail me](mailto:ru9art@gmail.com): ru9art@gmail.com
-### 🌐 [Telegram](https://t.me/ru9art): @ru9art
-### 🌐 [LinkedIn](https://www.linkedin.com/in/muzyk0/): Vladislav Muzyka
+### ✉️ Mail me: [ru9art@gmail.com](mailto:ru9art@gmail.com)
+### 🌐 Telegram: [@ru9art](https://t.me/ru9art)
+### 🌐 LinkedIn: [Vladislav Muzyka](https://www.linkedin.com/in/muzyk0/)
