@@ -3,7 +3,7 @@
 
 
 ## 💼 [Portfolio](https://muzyk0.github.io/portfolio/)
-## 📋 [CV](https://github.com/muzyk0/muzyk0/blob/main/Muzyka_Vladislav.pdf)
+## 📋 [CV](https://github.com/muzyk0/muzyk0/blob/master/Muzyka_Vladislav.pdf)
 
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
