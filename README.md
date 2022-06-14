@@ -2,7 +2,7 @@
 ## I'm a Full stack developer from Russia, Cheboksary.
 
 
-## 💼 [Portfolio](https://muzyk0.github.io/portfolio/)]
+## 💼 [Portfolio](https://muzyk0.github.io/portfolio/)
 
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
