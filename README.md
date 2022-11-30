@@ -1,5 +1,5 @@
 # Hi, my name is **Vladislav Muzyka**!
-## I'm a Full stack developer from Russia, Cheboksary.
+## I'm a Full stack developer.
 
 
 ## 💼 [Portfolio](https://muzyk0.github.io/portfolio/)
