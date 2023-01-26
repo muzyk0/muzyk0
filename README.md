@@ -17,8 +17,8 @@ experience with colleagues.
 ## Projects
 
 - [Blog plarform](https://github.com/muzyk0/NestJS-Blogs-API) - API service for website blog
-  platform. [Swagger](https://api.9art.ru/) documentation <small>(If you see error 504, please refresh the page)</small>
-  .
+  platform. [Swagger](https://api.9art.ru) documentation <small>(If you see error 504, please refresh the page)</small>.
+- [Message sender](https://github.com/muzyk0/nestjs-message-sender-microservice) - API microservice for send emails.
 - [GraphQL Course](https://github.com/muzyk0/Todolist-GraphQL-Course) - Learn about GraphQL in an interactive course
   with React.
 - [Todolist API](https://github.com/muzyk0/Todolist-GraphQL-server) - Backend service for GraphQL Course.
