@@ -1,23 +1,45 @@
-# Hi, my name is **Vladislav Muzyka**!
-## I'm a Full stack developer.
+# **Vladislav Muzyka** - Full Stack Developer
 
+I am a full-stack developer with commercial development experience in the IT industry. I have experience working with
+TypeScript, React and NestJS, which help me create high-quality and functional web applications.
 
-## 💼 [Portfolio](https://muzyk0.github.io/portfolio/)
+Using React for front-end development, I create interactive and attractive interfaces that help users easily interact
+with the application. Using NodeJS and NestJs for back-end development, I create scalable and reliable systems that can
+handle large amounts of data and requests.
 
-### Main Skills
-![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+I am interested in working in a team and constantly strive to develop and keep up with industry trends. I am looking for
+a company where I can grow as a professional and specialist, using my skills and knowledge to assist the company in
+creating high-quality and functional web applications. I am ready to participate in teamwork and exchange ideas and
+experience with colleagues.
+
+### 💼 [Portfolio](https://9art.ru/)
+
+## Projects
+- [Blog plarform](https://github.com/muzyk0/NestJS-Blogs-API) - API service for website blog platform. [Swagger](https://github.com/muzyk0/NestJS-Blogs-API) documentation.
+- [GraphQL Course](https://github.com/muzyk0/Todolist-GraphQL-Course) - Learn about GraphQL in an interactive course with React.
+- [Todolist API](https://github.com/muzyk0/Todolist-GraphQL-server) - Backend service for GraphQL Course.
+
+## Main Skills
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![JavaScript](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![Redux](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass)
 
-![Material UI](https://img.shields.io/badge/-Material&#032;UI-090909?style=for-the-badge) 
-![CSS Modules](https://img.shields.io/badge/-CSS&#032;Modules-090909?style=for-the-badge) 
-![Styled Components](https://img.shields.io/badge/-Styled&#032;Components-090909?style=for-the-badge)
-![STORYBOOK](https://img.shields.io/badge/-StoryBook-090909?style=for-the-badge)
-![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
+### Other Skills
+![Redux](https://img.shields.io/badge/-Mui-090909?style=for-the-badge&logo=Mui)
+![Redux](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
+![Redux](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
+![Redux](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![Redux](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL)
+![Redux](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+![Redux](https://img.shields.io/badge/-MongoDb-090909?style=for-the-badge&logo=MongoDB)
+![Redux](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Redux](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
 
-#
-### ✉️ Mail me: [ru9art@gmail.com](mailto:ru9art@gmail.com)
-### 🌐 Telegram: [@ru9art](https://t.me/ru9art)
-### 🌐 LinkedIn: [Vladislav Muzyka](https://www.linkedin.com/in/muzyk0/)
+## Contact Me
+- Telegram: [@vmuzyk0](https://t.me/vmuzyk0)
+- Email: [ru9art@gmail.com](mailto:ru9art@gmail.com)
+- LinkedIn: [Vladislav Muzyka](https://www.linkedin.com/in/muzyk0/)
+- Twitter: [@vmuzyk0](https://twitter.com/vmuzyk0)
