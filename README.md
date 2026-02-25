@@ -114,7 +114,7 @@ New technologies, architectural patterns, and best practices. The tech world nev
 
 | Project | Description | Tech Stack                            | Stars |
 |---------|-------------|---------------------------------------|-------|
-| [🛒 **wish-list-app**](https://github.com/muzyk0/wish-list-app) | Wish list management application | Go, React Native, Next.js, TypeScript | 🔥 Active |
+| [🎁 **wish-list-app**](https://github.com/muzyk0/wish-list-app) | Gift list platform with public pages for holidays & booking | Go, React Native, Next.js, TypeScript | 🔥 Active |
 | [📱 **shopping-list-mobile**](https://github.com/muzyk0/shopping-list-mobile) | Mobile shopping list application | Kotlin, Android | 🔥 Active |
 | [📸 **snapix**](https://github.com/muzyk0/SNAPIX) | Photo sharing application | TypeScript, React                     | ⭐ 4 |
 | [📝 **NestJS-Blogs-API**](https://github.com/muzyk0/NestJS-Blogs-API) | Blog platform API with Swagger docs | NestJS, TypeScript, PostgreSQL        | ⭐ 1 |
