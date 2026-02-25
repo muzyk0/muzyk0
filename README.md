@@ -1,51 +1,167 @@
-# **Vladislav Muzyka** - Full Stack Developer
+<!--
 
-I am a full-stack developer with commercial development experience in the IT industry. I have experience working with
-TypeScript, React and NestJS, which help me create high-quality and functional web applications.
+   ██████╗ ████████╗████████╗██████╗  ██████╗     ██████╗ ██╗   ██╗██╗     ███████╗███████╗
+  ██╔════╝ ╚══██╔══╝╚══██╔══╝██╔══██╗██╔═══██╗    ██╔══██╗██║   ██║██║     ██╔════╝██╔════╝
+  ██║  ███╗   ██║      ██║   ██████╔╝██║   ██║    ██████╔╝██║   ██║██║     █████╗  ███████╗
+  ██║   ██║   ██║      ██║   ██╔══██╗██║   ██║    ██╔══██╗██║   ██║██║     ██╔══╝  ╚════██║
+  ╚██████╔╝   ██║      ██║   ██║  ██║╚██████╔╝    ██████╔╝╚██████╔╝███████╗███████╗███████║
+   ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝
 
-Using React for front-end development, I create interactive and attractive interfaces that help users easily interact
-with the application. Using NodeJS and NestJs for back-end development, I create scalable and reliable systems that can
-handle large amounts of data and requests.
+  Welcome to my digital playground. Scroll down to explore what I've built.
 
-I am interested in working in a team and constantly strive to develop and keep up with industry trends. I am looking for
-a company where I can grow as a professional and specialist, using my skills and knowledge to assist the company in
-creating high-quality and functional web applications. I am ready to participate in teamwork and exchange ideas and
-experience with colleagues.
+-->
 
-### 🌐 [My website](https://9art.ru/)
+<div align="center">
 
-## Projects
+![Vladislav Muzyka](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&color=2ea44f&center=true&vCenter=true&width=600&lines=Vladislav+Muzyka;Full+Stack+Developer;TypeScript+%26+Go+Enthusiast;Building+Scalable+Web+Applications)
 
-- [Blog plarform](https://github.com/muzyk0/NestJS-Blogs-API) - API service for website blog
-  platform. [Swagger](https://api.9art.ru) documentation <small>(If you see error 504, please refresh the page)</small>.
-- [Message sender](https://github.com/muzyk0/nestjs-message-sender-microservice) - API microservice for send emails.
-- [GraphQL Course](https://github.com/muzyk0/Todolist-GraphQL-Course) - Learn about GraphQL in an interactive course
-  with React.
-- [Todolist API](https://github.com/muzyk0/Todolist-GraphQL-server) - Backend service for GraphQL Course.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muzyk0&style=for-the-badge&color=2ea44f&label=Profile+Views" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/muzyk0?style=for-the-badge&color=2ea44f&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/muzyk0?affiliations=OWNER&style=for-the-badge&color=2ea44f" alt="Stars">
+  <img src="https://img.shields.io/github/repos/muzyk0?style=for-the-badge&color=2ea44f" alt="Repositories">
+</p>
 
-## Main Skills
+[![Website](https://img.shields.io/badge/🌐_Website-9art.ru-2ea44f?style=for-the-badge&logo=google-chrome)](https://9art.ru/)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-@vmuzyk0-26A5FA?style=for-the-badge&logo=telegram)](https://t.me/vmuzyk0)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Vladislav_Muzyka-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muzyk0/)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![JavaScript](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Redux](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass)
+---
 
-### Other Skills
+### 👨‍💻 About Me
 
-![Redux](https://img.shields.io/badge/-Mui-090909?style=for-the-badge&logo=Mui)
-![Redux](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
-![Redux](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
-![Redux](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Redux](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL)
-![Redux](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
-![Redux](https://img.shields.io/badge/-MongoDb-090909?style=for-the-badge&logo=MongoDB)
-![Redux](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
-![Redux](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
+I'm a **Full Stack Developer** with commercial experience building scalable web applications. I work with **TypeScript**, **React**, **NestJS**, and recently exploring **Go** for backend development.
 
-## Contact Me
+- 🔭 Currently working on **41+ projects** on GitHub
+- 🌱 Continuously learning and exploring new technologies (LLM, Go, Microservices)
+- 💼 Focused on **Frontend** (React, TypeScript) & **Backend** (NestJS, Node.js, Go)
+- 🏠 Working remotely
+- 📫 Reach me at: [ru9art@gmail.com](mailto:ru9art@gmail.com)
 
-- Telegram: [@vmuzyk0](https://t.me/vmuzyk0)
-- Email: [ru9art@gmail.com](mailto:ru9art@gmail.com)
-- LinkedIn: [Vladislav Muzyka](https://www.linkedin.com/in/muzyk0/)
-- Twitter: [@vmuzyk0](https://twitter.com/vmuzyk0)
+I believe in **clean code**, **modern architecture**, and building products that people actually want to use.
+
+---
+
+### 🛠 Tech Stack
+
+#### **Frontend**
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
+#### **Backend**
+<div align="center">
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+#### **Databases & Infrastructure**
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+#### **Tools & Testing**
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzyk0&show_icons=true&theme=radical&hide_border=true&title_color=2ea44f&icon_color=2ea44f&count_private=true" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzyk0&layout=compact&theme=radical&hide_border=true&title_color=2ea44f" alt="Top Languages" /> |
+|:---:|:---:|
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muzyk0&theme=radical&hide_border=true&fire=2ea44f&currStreakLabel=2ea44f)
+
+</div>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzyk0&theme=react-dark&hide_border=true&color=2ea44f&line=2ea44f&point=ffffff&area=true)
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+> **🎯 Main Pet Projects** — Actively developed and maintained
+
+| Project | Description | Tech Stack                            | Stars |
+|---------|-------------|---------------------------------------|-------|
+| [🛒 **wish-list-app**](https://github.com/muzyk0/wish-list-app) | Wish list management application | Go, React Native, Next.js, TypeScript | 🔥 Active |
+| [📱 **shopping-list-mobile**](https://github.com/muzyk0/shopping-list-mobile) | Mobile shopping list application | Kotlin, Android | 🔥 Active |
+| [📸 **snapix**](https://github.com/muzyk0/SNAPIX) | Photo sharing application | TypeScript, React                     | ⭐ 4 |
+| [📝 **NestJS-Blogs-API**](https://github.com/muzyk0/NestJS-Blogs-API) | Blog platform API with Swagger docs | NestJS, TypeScript, PostgreSQL        | ⭐ 1 |
+| [🎓 **Todolist-GraphQL-Course**](https://github.com/muzyk0/Todolist-GraphQL-Course) | Interactive GraphQL learning course | React, GraphQL, TypeScript            | ⭐ 1 |
+| [🔗 **Go Link Shortener**](https://github.com/muzyk0/GO-SHORTENER-LINKS) | URL shortening service | Go, REST API                          | - |
+
+### 🎖️ Achievements
+
+<p align="center">
+
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="64" height="64" alt="Pair Extraordinaire">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" alt="Pull Shark">
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" height="64" alt="Quickdraw">
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" height="64" alt="YOLO">
+
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+
+Feel free to reach out for collaborations, questions, or just to say hi!
+
+[![Email](https://img.shields.io/badge/📧_Email-ru9art@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:ru9art@gmail.com)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-@vmuzyk0-26A5FA?style=for-the-badge&logo=telegram)](https://t.me/vmuzyk0)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Vladislav_Muzyka-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muzyk0/)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@vmuzyk0-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/vmuzyk0)
+[![Facebook](https://img.shields.io/badge/📘_Facebook-muzyk0-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/muzyk0)
+[![Website](https://img.shields.io/badge/🌐_Website-9art.ru-4285F4?style=for-the-badge&logo=google-chrome)](https://9art.ru/)
+
+</p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=120&section=footer)
+
+<p align="center">
+
+**Thanks for visiting my profile! ⭐️**
+
+*Happy Coding!* 🚀
+
+</p>
+
+</div>
