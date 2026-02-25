@@ -2,13 +2,6 @@
 
 ![Vladislav Muzyka](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&color=2ea44f&center=true&vCenter=true&width=600&lines=Vladislav+Muzyka;Full+Stack+Developer;TypeScript+%26+Go+Enthusiast;Building+Scalable+Web+Applications)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzyk0&style=for-the-badge&color=2ea44f&label=Profile+Views" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/muzyk0?style=for-the-badge&color=2ea44f&logo=github" alt="Followers">
-  <img src="https://img.shields.io/github/stars/muzyk0?affiliations=OWNER&style=for-the-badge&color=2ea44f" alt="Stars">
-  <img src="https://img.shields.io/github/repos/muzyk0?style=for-the-badge&color=2ea44f" alt="Repositories">
-</p>
-
 [![Website](https://img.shields.io/badge/🌐_Website-9art.ru-2ea44f?style=for-the-badge&logo=google-chrome)](https://9art.ru/)
 [![Telegram](https://img.shields.io/badge/✈️_Telegram-@vmuzyk0-26A5FA?style=for-the-badge&logo=telegram)](https://t.me/vmuzyk0)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Vladislav_Muzyka-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muzyk0/)
