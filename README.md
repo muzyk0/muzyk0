@@ -1,16 +1,3 @@
-<!--
-
-   ██████╗ ████████╗████████╗██████╗  ██████╗     ██████╗ ██╗   ██╗██╗     ███████╗███████╗
-  ██╔════╝ ╚══██╔══╝╚══██╔══╝██╔══██╗██╔═══██╗    ██╔══██╗██║   ██║██║     ██╔════╝██╔════╝
-  ██║  ███╗   ██║      ██║   ██████╔╝██║   ██║    ██████╔╝██║   ██║██║     █████╗  ███████╗
-  ██║   ██║   ██║      ██║   ██╔══██╗██║   ██║    ██╔══██╗██║   ██║██║     ██╔══╝  ╚════██║
-  ╚██████╔╝   ██║      ██║   ██║  ██║╚██████╔╝    ██████╔╝╚██████╔╝███████╗███████╗███████║
-   ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝
-
-  Welcome to my digital playground. Scroll down to explore what I've built.
-
--->
-
 <div align="center">
 
 ![Vladislav Muzyka](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&color=2ea44f&center=true&vCenter=true&width=600&lines=Vladislav+Muzyka;Full+Stack+Developer;TypeScript+%26+Go+Enthusiast;Building+Scalable+Web+Applications)
@@ -30,17 +17,34 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with commercial experience building scalable web applications. I work with **TypeScript**, **React**, **NestJS**, and recently exploring **Go** for backend development.
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-- 🔭 Currently working on **41+ projects** on GitHub
-- 🌱 Continuously learning and exploring new technologies (LLM, Go, Microservices)
-- 💼 Focused on **Frontend** (React, TypeScript) & **Backend** (NestJS, Node.js, Go)
-- 🏠 Working remotely
-- 📫 Reach me at: [ru9art@gmail.com](mailto:ru9art@gmail.com)
+I'm a **Full Stack Developer** passionate about crafting elegant solutions to complex problems. With a strong foundation in both frontend and backend technologies, I build scalable web applications that deliver exceptional user experiences.
 
-I believe in **clean code**, **modern architecture**, and building products that people actually want to use.
+**🎯 What I Do:**
+- 🏗️ Build robust **APIs** and **microservices** with NestJS, Node.js, and Go
+- 🎨 Create responsive, intuitive **user interfaces** using React and TypeScript
+- 📱 Develop **mobile applications** with React Native and Kotlin
+- 🗄️ Design efficient **database schemas** and optimize queries (PostgreSQL, MongoDB)
+- 🚀 Deploy and maintain applications using modern **DevOps practices**
+
+**💡 My Philosophy:**
+- Clean, maintainable code is non-negotiable
+- Architecture matters — scalability starts from day one
+- Continuous learning keeps you relevant in this fast-paced industry
+- Collaboration and knowledge sharing make teams stronger
+
+**🔭 Currently:**
+- Actively developing **wish-list-app** (React Native + Next.js + Go)
+- Building **shopping-list-mobile** (Kotlin for Android)
+- Exploring **LLM integration** and AI-powered tools
+- Expanding my **Go** expertise for backend development
+
+**🌱 Always Learning:**
+New technologies, architectural patterns, and best practices. The tech world never stops evolving, and neither do I.
 
 ---
+
 
 ### 🛠 Tech Stack
 
